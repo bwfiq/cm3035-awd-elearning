@@ -1,3 +1,6 @@
+# Project Setup
+- Initialise a venv
+
 # TODO
 
 - Initialise a Django application

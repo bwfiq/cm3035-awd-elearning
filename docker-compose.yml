@@ -1,0 +1,10 @@
+version: '3.4'
+
+services:
+  cm3035awdelearning:
+    image: cm3035awdelearning
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    ports:
+      - 8000:8000

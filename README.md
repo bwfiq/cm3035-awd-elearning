@@ -1,2 +1,5 @@
-# cm3035-awd-elearning
-An E-Learning web application built with Django
+# TODO
+
+- Initialise a Django application
+- Dockerise it
+- Rest of the horse

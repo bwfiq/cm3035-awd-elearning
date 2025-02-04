@@ -9,6 +9,8 @@ python manage.py runserver
 
 ALLOWED_HOSTS in `settings.py` is set to allow all connections for debug purposes.
 
+The superuser for logging into the django admin panel is admin:admin.
+
 # TODO
 
 - Initialise a Django application

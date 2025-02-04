@@ -13,6 +13,8 @@ The superuser for logging into the django admin panel is admin:admin.
 
 # TODO
 
-- Initialise a Django application
-- Dockerise it
+- [ ] Initialise a Django application
+- [ ] Dockerise it
+- [ ] Implement github actions for testing and building
+- [ ] Deploymentation
 - Rest of the horse

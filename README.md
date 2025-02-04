@@ -1,5 +1,6 @@
 # Project Setup
 - Initialise a venv
+- run `python manage.py migrate`
 
 # TODO
 
